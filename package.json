@@ -1,0 +1,23 @@
+{
+  "name": "youtube-node-js-course-2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferzphil/nodejs-course-2022.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferzphil/nodejs-course-2022/issues"
+  },
+  "homepage": "https://github.com/ferzphil/nodejs-course-2022#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
